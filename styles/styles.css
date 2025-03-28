@@ -3,15 +3,15 @@ h1{
 }
 
 h2{
-    color: white;
-    background-color: brown;
+    color: rgb(255, 255, 255);
+    background-color: rgb(210, 57, 57);
     padding: 5px;
     border-radius: 10px;
     text-align: center;
 }
 
 h3{
-    color: blue;
+    color: rgb(0, 0, 210);
 }
 
 body{
@@ -28,18 +28,18 @@ table, tr, td, th, thead, tbody, tfooter, caption{
 }
 
 caption{
-    background-color: #222;
+    background-color: #1a1a1a;
     color: white;
     margin: 2px;
     padding: 2px;
 }
 
 thead, tfoot{
-    background-color: lightgray;
+    background-color: rgb(193, 193, 193);
 }
 
 .red{
-    color: red;
+    color: rgb(210, 57, 57);
 }
 
 .flex{
